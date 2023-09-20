@@ -1,0 +1,26 @@
+[
+  {
+    "Id":  1,
+    "Name": "user123",
+    "FirstName": "James",
+    "LastName": "Smith",
+    "EMail": "user123@fakemarket.com",
+    "Active": false
+  },
+  {
+    "Id":  2,
+    "Name": "smam3333",
+    "FirstName": "Jane",
+    "LastName": "Brown",
+    "EMail": "smamuser3@fakemarket.com",
+    "Active": true
+  },
+  {
+    "Id":  3,
+    "Name": "cteuser",
+    "FirstName": "Gary",
+    "LastName": "Lee",
+    "EMail": "glee@fakemarket.com",
+    "Active": true
+  }
+]

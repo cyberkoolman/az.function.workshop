@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "HttpSample": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7209",
+      "launchBrowser": false
+    }
+  }
+}
